@@ -25,7 +25,7 @@ We can create a maximum of 65535 user accounts and out which 0 to 999 are system
 # cat vs tac 
 
 > Use Cases of reading file: 
-1) Reading the file .
+1) Reading the file.
 2) Reading file in the reverse order.
 3) How to read from the top 5 lines of a file.
 4) How to read from the bottom 5 lines of a file.
@@ -33,8 +33,7 @@ We can create a maximum of 65535 user accounts and out which 0 to 999 are system
 6) How to read a specific portion or fields of a file.
 7) How to print line number x and y 
 
-
-Head & Tail 
+# head & tail 
 > head reads the top 10 lines of a file
 > tail reads the last 10 lines of a file 
 
@@ -49,3 +48,26 @@ Head & Tail
 # prints 1 to 4 fields from the file:
     `$ cut -d : -f1-4 /etc/passwd`
 
+# How to read, cp, rm, mv of a file. How to edit a file ?
+vi fileName 
+vim fileName
+
+> Editing a file on linux starts with understand the modes of editor.
+
+w: write ( save )
+q: quit 
+wq! : Save and quit 
+
+> When you write something on the file, but don't want to save it and in this case,
+:q!
+
+# Directory Structure In Linux
+
+# curl: client url : Like a Browser on linux
+    using curl, you can read / download files from the internet.
+    `$ curl url`
+
+# wget: to download files from the internet 
+    `$ wget URL`
+
+>  Tar, pipe, patching & user management on linux
