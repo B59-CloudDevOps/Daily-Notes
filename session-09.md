@@ -5,14 +5,14 @@ Agenda:
     * User Managment 
     * Permissions 
     * Patch Management 
-    * Servvice Management
+    * Service Management
 
 Run Level in linux: 
     0 : Shutdown's the server 
     1 : Starts the server in a single user mode 
     2 : Starts the server in multi-user mode but network ( nfs ) won't be coming 
     3 : This starts the system in multi-user mode with network ( Efficient and widely used )
-    4 : This is for R&D, not for users purpose 
+    4 : This is for R&D, not for users purpose. 
     5 : This also starts your server in a multi-user mode, but starts the server along with GUI
     6 : Reboot
 
@@ -62,10 +62,11 @@ $ kill: command to kill a specific process id
     How can groups can a user be a part ?
 
 > How to switch from one user account to another user account ?
-
     su: switch user
     su - : switch user along with this directory
 
 > Not everyone is the system can execute the commands with `sudo` !!!!!
     How can we give a specific group permissions to sudo ?
         /etc/sudoer
+        devops : createUser accounts ( for sudo )
+        
