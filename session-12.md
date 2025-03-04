@@ -1,4 +1,3 @@
-
 What is web application ?
 What is Monolithic Application ?
 Standards that we follow in this training.
@@ -32,11 +31,9 @@ Purpose of reverser proxy:
 
 Applications are always supposed to be configured wtih service-accounts or non-human accounts
 
-
 Assignment: 
     1) SQL DB vs NoSQL DB 
     2) What is Column DB
     3) What is Queue Manager
-
 
 Status Codes ( Start Tomorrow )
