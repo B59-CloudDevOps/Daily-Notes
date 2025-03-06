@@ -36,3 +36,14 @@ Understand these terms:
 
 Git HUB Uses PAT for authentication ( PAT: Personal Access Token )
 
+If the repo is public:  
+    1) You can clone the code without the need of credentails 
+    2) If you want to push the code to the repo, you need to prove that repo is owned by you, by filling your credentials 
+
+If the repo is private:  
+    1) You can clone the code but need credentails 
+    2) If you want to push the code to the repo, you need to prove that repo is owned by you, by filling your credentials 
+
+VSCode Command To Open a Folder In VSCODE:
+    $ code folderName
+    
