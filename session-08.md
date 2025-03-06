@@ -70,4 +70,4 @@ wq! : Save and quit
 # wget: to download files from the internet 
     `$ wget URL`
 
->  Tar, pipe, patching & user management on linux
+>  Tar, pipe, patching & user management on linux...
