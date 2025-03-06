@@ -36,4 +36,3 @@ Understand these terms:
 
 Git HUB Uses PAT for authentication ( PAT: Personal Access Token )
 
-Demonstrating Commits
