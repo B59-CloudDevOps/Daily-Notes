@@ -33,7 +33,6 @@
      $ sudo dnf install $(cat package.txt)
     
 ```
-
 Packages on redghat linux can be installed in 3 ways 
 
     1) Package Manager ( yum or dns ) : Along with the needed package, all the pre-requisites are covered by the package manager 
