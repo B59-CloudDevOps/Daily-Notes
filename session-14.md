@@ -33,3 +33,7 @@ Understand these terms:
     1) git add fileName-that's-changes or simply "git add ." this includes all the files in your directory
     2) git commit -m "EXP-APP-7: Updated the session-14 file"
     3) git push
+
+Git HUB Uses PAT for authentication ( PAT: Personal Access Token )
+
+Demonstrating Commits
