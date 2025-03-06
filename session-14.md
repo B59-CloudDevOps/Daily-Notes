@@ -21,7 +21,6 @@ Once you install the VSCode, make sure to enable the "AUTO SAVE Option" on FILE 
 
 GitHub Action is the CI/CD Framework which can learnt for free on GitHub, if your repositories are under an ORG and they are free.
 
-
 Understand these terms:
     $ git clone repoName : This means downloading the whole repo to your local ( If the repo is public , it won't challenges with userName and password )
     $ git push : Once you made a clone, if you made some changes, we publish those changes back to the central repo 
@@ -46,4 +45,15 @@ If the repo is private:
 
 VSCode Command To Open a Folder In VSCODE:
     $ code folderName
-    
+
+> Later: Code Review, Branching Strategy, Pull Reqeust
+
+One time work:
+    1) Singup github and create a org and repo's as needed under this 
+    2) Clone the needed repo to batch59/ using git clone repoName 
+
+Continuous Work:
+    1) Develop locally 
+    2) Publish the changes to gitHub 
+    3) Pull the changes on server as needed 
+    4) Test them as needed
