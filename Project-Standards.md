@@ -6,5 +6,5 @@
     Region      : N.Virginia
     Credentials : ec2-user/DevOps321
 
-Make sure you provison a VM ( On Demand! Not spot ) and name is as WS or Workstation.
-This WS is something, we are going to use to install and test all the basic needs and this will be lasting till the end of the trainint.
+Make sure you provison a VM ( On Demand! Not spot ) and name is as WS or Workstation using the above LAB AMI.
+This WS is something, we are going to use to install and test all the basic needs and this will be lasting till the end of the training.
