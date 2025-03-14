@@ -8,3 +8,13 @@
 
 Make sure you provison a VM ( On Demand! Not spot ) and name is as WS or Workstation using the above LAB AMI.
 This WS is something, we are going to use to install and test all the basic needs and this will be lasting till the end of the training.
+
+
+
+Terminal is just an entry point;
+But installing GitBash, your terminal has the capability to run the git commands 
+
+Non-Functional Requirements ( NFR )
+Code Should Be Dry 
+Credentials should not be hardcoded.
+Re-run of the script should not fail.
